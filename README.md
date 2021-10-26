@@ -1,13 +1,12 @@
-Hi there 👋
-- 💬 <a href="linaom1214@163.com"/></a>
-<p><a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Linaom1214&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linaom1214's github stats" /></a> <a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linaom1214&layout=compact&theme=buefy&hide_border=true" /></a></p>
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8964-8871" href="https://orcid.org/0000-0001-8964-8871" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8964-8871</a></div>
+<p><a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linaom1214&layout=compact&theme=buefy&hide_border=true" /></a></p>
 
 
 
 <!--
 ### 
 **Linaom1214/Linaom1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Linaom1214&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linaom1214's github stats" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
