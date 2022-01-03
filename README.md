@@ -1,7 +1,7 @@
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8964-8871" href="https://orcid.org/0000-0001-8964-8871" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8964-8871</a></div>
+![more info get](https://linaom1214.github.io/)
+
 <p><a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linaom1214&layout=compact&theme=buefy&hide_border=true" /></a></p>
 <a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Linaom1214&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linaom1214's github stats" /></a>
-
 
 <!--
 ### 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![info](https://github-readme-stats.vercel.app/api?username=Linaom1214&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 -->
