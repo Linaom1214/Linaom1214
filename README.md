@@ -1,6 +1,9 @@
 - 🌱  <a href="https://linaom1214.github.io/"> Personal Information </a>
 
-<p><a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linaom1214&layout=compact&theme=buefy&hide_border=true" /></a></p>
+<p>
+<a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linaom1214&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Linaom1214&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linaom1214's github stats" />
+</p>
 <!-- <a href="https://github.com/Linaom1214"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Linaom1214&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linaom1214's github stats" /></a> -->
 
 <!--
