@@ -28,3 +28,8 @@ Here is Linaom1214 <a href="https://linaom1214.github.io/"> Personal Information
 - [YOLO series TensorRT Demo](https://github.com/Linaom1214/tensorrt-python) 
 - [YOLOv7 End2End Demo](https://colab.research.google.com/drive/1JVC7Z_9163L7QL6SNxMyNeBCeFZpfqwc?usp=sharing)
 - [ISTD](https://github.com/Linaom1214/Infrared-detect-by-segmentation) 
+
+## Contribute 
+
+- [X] [YOLOv7](https://github.com/WongKinYiu/yolov7)
+- [X] [YOLOv6](https://github.com/meituan/YOLOv6)
